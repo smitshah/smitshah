@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Smit Shah 👋</h1>
+<h1 align="center">Hi there, I'm Smit Shah <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-smit--shah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smit--shah/)](https://www.linkedin.com/in/smit--shah/)
 [![Gmail Badge](https://img.shields.io/badge/-smitshah0885@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smitshah0885@gmail.com)](mailto:smitshah0885@gmail.com) 
@@ -57,7 +57,10 @@
 </p>
 
 
-
+<a href="https://gitstats.me/smitshah99">
+    <img width="420" height="auto" align="left" alt="Smit's github stats" 
+    src="https://github-readme-stats.vercel.app/api?username=smitshah99&show_icons=true&theme=dark&count_private=false&include_all_commits=true" />
+</a>
 
 
 
