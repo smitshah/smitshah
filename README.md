@@ -39,8 +39,25 @@
 <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a><a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://jupyter.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" width="40" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="40" height="40"/> </a> 
-<a href="https://colab.research.google.com/" target="_blank"> <img src="https://github.com/smitshah99/smitshah99.github.io/blob/master/assets/img/skills/colab.jpg" alt="azure" width="40" height="40"/> </a>
-
+<a href="https://jupyter.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" width="50" height="40"/> </a> 
+<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="50" height="40"/> </a> 
+<a href="https://colab.research.google.com/" target="_blank"> <img src="https://github.com/smitshah99/smitshah99.github.io/blob/master/assets/img/skills/colab.jpg" alt="colab" width="50" height="40"/> </a>
+<a href="https://kicad.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" alt="kicad" width="50" height="40"/> </a>
+<a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank"> <img src="https://github.com/smitshah99/smitshah99.github.io/blob/master/assets/img/skills/ltspice.jpg" alt="ltspice" width="50" height="40"/> </a>
+<a href="https://www.labcenter.com/" target="_blank"> <img src="https://github.com/smitshah99/smitshah99.github.io/blob/master/assets/img/skills/proteus.jpg" alt="proteus" width="50" height="40"/> </a>
+<a href="https://www.multisim.com/" target="_blank"> <img src="https://github.com/smitshah99/smitshah99.github.io/blob/master/assets/img/skills/multisim.jpg" alt="multisim" width="50" height="40"/> </a>
+<a href="https://www.ni.com/en-in/shop/labview.html" target="_blank"> <img src="https://github.com/smitshah99/smitshah99.github.io/blob/master/assets/img/skills/labview.jpg" alt="labview" width="50" height="40"/> </a>
+<a href="http://www.roboanalyzer.com/" target="_blank"> <img src="https://github.com/smitshah99/smitshah99.github.io/blob/master/assets/img/skills/roboanalyser.jpg" alt="roboanalyzer" width="50" height="40"/> </a>
+<a href="http://gazebosim.org/" target="_blank"> <img src="https://github.com/smitshah99/smitshah99.github.io/blob/master/assets/img/skills/gazebo.jpg" alt="gazebo" width="50" height="40"/> </a>
+<a href="https://www.xilinx.com/products/design-tools/ise-design-suite.html" target="_blank"> <img src="https://github.com/smitshah99/smitshah99.github.io/blob/master/assets/img/skills/xilinxise.jpg" alt="xilinxise" width="50" height="40"/> </a>
+<a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Xilinx.svg" alt="xilinxvivado" width="50" height="40"/> </a>
+<a href="https://www.keil.com/" target="_blank"> <img src="https://github.com/smitshah99/smitshah99.github.io/blob/master/assets/img/skills/keil.jpg" alt="keil" width="50" height="40"/> </a>
+<a href="https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide" target="_blank"> <img src="https://github.com/smitshah99/smitshah99.github.io/blob/master/assets/img/skills/mplab.jpg" alt="mplab" width="50" height="40"/> </a>
+<a href="https://www.freertos.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Freertos.svg" alt="Freertos" width="50" height="40"/> </a>
 </p>
+
+
+
+
+
+
