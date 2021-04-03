@@ -56,11 +56,10 @@
 <a href="https://www.freertos.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Freertos.svg" alt="Freertos" width="50" height="40"/> </a>
 </p>
 
-
-<a href="https://gitstats.me/smitshah99">
-    <img width="420" height="auto" align="left" alt="Smit's github stats" 
-    src="https://github-readme-stats.vercel.app/api?username=smitshah99&show_icons=true&theme=dark&count_private=false&include_all_commits=true" />
-</a>
+<div>
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=smitshah99&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitshah99&show_icons=true&theme=dark&layout=compact" />
+</div>
 
 
 
