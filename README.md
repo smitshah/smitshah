@@ -6,7 +6,7 @@
 
 ### Wanna stalk my website:question::point_right: [Click Here](https://smitshah99.github.io/):sparkles:
 
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smitshah99" alt="smitshah99" /></a> </p>
 
 <!--
 **smitshah99/smitshah99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
