@@ -2,14 +2,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-smit--shah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smit--shah/)](https://www.linkedin.com/in/smit--shah/)
 [![Gmail Badge](https://img.shields.io/badge/-smitshah0885@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smitshah0885@gmail.com)](mailto:smitshah0885@gmail.com) 
-![Profile Views](https://komarev.com/ghpvc/?username=smitshah99)
+![Profile Views](https://komarev.com/ghpvc/?username=smitshah)
 
-### Wanna stalk my website:question::point_right: [Click Here](https://smitshah99.github.io/):sparkles:
+### Wanna stalk my website:question::point_right: [Click Here](https://smitshah.github.io/):sparkles:
 
 #### Github Profile Trophy
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smitshah99" alt="smitshah99" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smitshah" alt="smitshah" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://chandrikadeb99.github.io/](https://smitshah99.github.io/)
+- 👨‍💻 All of my projects are available at [https://smitshah.github.io/](https://smitshah.github.io/)
 
 - 📝 I write tutorials related to circuit designing on [TechJammers](https://medium.com/@techjammers.electronics)
 
@@ -41,24 +41,24 @@
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://jupyter.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" width="50" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="50" height="40"/> </a> 
-<a href="https://colab.research.google.com/" target="_blank"> <img src="https://github.com/smitshah99/smitshah99.github.io/blob/master/assets/img/skills/colab.jpg" alt="colab" width="50" height="40"/> </a>
+<a href="https://colab.research.google.com/" target="_blank"> <img src="https://github.com/smitshah/smitshah.github.io/blob/master/assets/img/skills/colab.jpg" alt="colab" width="50" height="40"/> </a>
 <a href="https://kicad.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" alt="kicad" width="50" height="40"/> </a>
-<a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank"> <img src="https://github.com/smitshah99/smitshah99.github.io/blob/master/assets/img/skills/ltspice.jpg" alt="ltspice" width="50" height="40"/> </a>
-<a href="https://www.labcenter.com/" target="_blank"> <img src="https://github.com/smitshah99/smitshah99.github.io/blob/master/assets/img/skills/proteus.jpg" alt="proteus" width="50" height="40"/> </a>
-<a href="https://www.multisim.com/" target="_blank"> <img src="https://github.com/smitshah99/smitshah99.github.io/blob/master/assets/img/skills/multisim.jpg" alt="multisim" width="50" height="40"/> </a>
-<a href="https://www.ni.com/en-in/shop/labview.html" target="_blank"> <img src="https://github.com/smitshah99/smitshah99.github.io/blob/master/assets/img/skills/labview.jpg" alt="labview" width="50" height="40"/> </a>
-<a href="http://www.roboanalyzer.com/" target="_blank"> <img src="https://github.com/smitshah99/smitshah99.github.io/blob/master/assets/img/skills/roboanalyser.jpg" alt="roboanalyzer" width="50" height="40"/> </a>
-<a href="http://gazebosim.org/" target="_blank"> <img src="https://github.com/smitshah99/smitshah99.github.io/blob/master/assets/img/skills/gazebo.jpg" alt="gazebo" width="50" height="40"/> </a>
-<a href="https://www.xilinx.com/products/design-tools/ise-design-suite.html" target="_blank"> <img src="https://github.com/smitshah99/smitshah99.github.io/blob/master/assets/img/skills/xilinxise.jpg" alt="xilinxise" width="50" height="40"/> </a>
+<a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank"> <img src="https://github.com/smitshah/smitshah.github.io/blob/master/assets/img/skills/ltspice.jpg" alt="ltspice" width="50" height="40"/> </a>
+<a href="https://www.labcenter.com/" target="_blank"> <img src="https://github.com/smitshah/smitshah.github.io/blob/master/assets/img/skills/proteus.jpg" alt="proteus" width="50" height="40"/> </a>
+<a href="https://www.multisim.com/" target="_blank"> <img src="https://github.com/smitshah/smitshah.github.io/blob/master/assets/img/skills/multisim.jpg" alt="multisim" width="50" height="40"/> </a>
+<a href="https://www.ni.com/en-in/shop/labview.html" target="_blank"> <img src="https://github.com/smitshah/smitshah.github.io/blob/master/assets/img/skills/labview.jpg" alt="labview" width="50" height="40"/> </a>
+<a href="http://www.roboanalyzer.com/" target="_blank"> <img src="https://github.com/smitshah/smitshah.github.io/blob/master/assets/img/skills/roboanalyser.jpg" alt="roboanalyzer" width="50" height="40"/> </a>
+<a href="http://gazebosim.org/" target="_blank"> <img src="https://github.com/smitshah/smitshah.github.io/blob/master/assets/img/skills/gazebo.jpg" alt="gazebo" width="50" height="40"/> </a>
+<a href="https://www.xilinx.com/products/design-tools/ise-design-suite.html" target="_blank"> <img src="https://github.com/smitshah/smitshah.github.io/blob/master/assets/img/skills/xilinxise.jpg" alt="xilinxise" width="50" height="40"/> </a>
 <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Xilinx.svg" alt="xilinxvivado" width="50" height="40"/> </a>
-<a href="https://www.keil.com/" target="_blank"> <img src="https://github.com/smitshah99/smitshah99.github.io/blob/master/assets/img/skills/keil.jpg" alt="keil" width="50" height="40"/> </a>
-<a href="https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide" target="_blank"> <img src="https://github.com/smitshah99/smitshah99.github.io/blob/master/assets/img/skills/mplab.jpg" alt="mplab" width="50" height="40"/> </a>
+<a href="https://www.keil.com/" target="_blank"> <img src="https://github.com/smitshah/smitshah.github.io/blob/master/assets/img/skills/keil.jpg" alt="keil" width="50" height="40"/> </a>
+<a href="https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide" target="_blank"> <img src="https://github.com/smitshah/smitshah.github.io/blob/master/assets/img/skills/mplab.jpg" alt="mplab" width="50" height="40"/> </a>
 <a href="https://www.freertos.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Freertos.svg" alt="Freertos" width="50" height="40"/> </a>
 </p>
 
 <div>
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=smitshah99&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitshah99&show_icons=true&theme=dark&layout=compact" />
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=smitshah&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitshah&show_icons=true&theme=dark&layout=compact" />
 </div>
 
 
