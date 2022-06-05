@@ -53,7 +53,7 @@
 <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Xilinx.svg" alt="xilinxvivado" width="50" height="40"/> </a>
 <a href="https://www.keil.com/" target="_blank"> <img src="https://github.com/smitshah/smitshah.github.io/blob/master/assets/img/skills/keil.jpg" alt="keil" width="50" height="40"/> </a>
 <a href="https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide" target="_blank"> <img src="https://github.com/smitshah/smitshah.github.io/blob/master/assets/img/skills/mplab.jpg" alt="mplab" width="50" height="40"/> </a>
-<a href="https://www.freertos.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Freertos.svg" alt="Freertos" width="50" height="40"/> </a>
+<a href="https://www.freertos.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_freeRTOS.png" alt="Freertos" width="50" height="40"/> </a>
 </p>
 
 <div>
