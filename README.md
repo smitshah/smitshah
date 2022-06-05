@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **smitshah0885@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DNtgkdlvbPFJf2nhQHxnLsslMob2NA0j/view?usp=sharing](https://drive.google.com/file/d/1DNtgkdlvbPFJf2nhQHxnLsslMob2NA0j/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1ZHah5502WcwJSVkgo3zLcilYVU9kfzpg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
