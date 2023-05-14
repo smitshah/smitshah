@@ -56,6 +56,7 @@
 <a href="https://www.freertos.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_freeRTOS.png" alt="Freertos" width="50" height="40"/> </a>
 </p>
 
+<h3 align="left">📊 GitHub Stats:</h3>
 <div>
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=smitshah&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitshah&show_icons=true&theme=dark&layout=compact" />
