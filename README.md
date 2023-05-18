@@ -24,9 +24,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smit--shah)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@techjammers.electronics)
-[![Stack Overflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/10215085/smitshah99)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@smitshah1304)
-[![ORCiD](https://img.shields.io/badge/-ORCiD-green?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8833-1506)
+[![Stack Overflow](https://img.shields.io/badge/stack%20overflow-F58025?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10215085/smitshah99)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=YouTube&logoColor=white)](https://www.youtube.com/@smitshah1304)
+[![ORCiD](https://img.shields.io/badge/ORCiD-A6CE39?logo=ORCiD&logoColor=white)](https://orcid.org/0000-0001-8833-1506)
 
 
 <h3 align="left">💻 Programming Languages and Tools:</h3>
@@ -34,7 +34,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![MATLAB](https://img.shields.io/badge/-MATLAB-orange?logo=matlab&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-FC6D26?style=for-the-badge&logo=matlab&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
