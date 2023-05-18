@@ -13,48 +13,56 @@
 
 - 📝 I write tutorials related to circuit designing on [TechJammers](https://medium.com/@techjammers.electronics)
 
-- 💬 Ask me about **C, Python, ML, NLP, PCB Design**
+- 💬 Ask me about **C, Python, ML, VLSI Design, FPGA, Robotics, PCB Design**
 
 - 📫 How to reach me :point_right: **smitshah0885@gmail.com**
 
-- 📄 Know about my experiences :point_right: [Here is my CV](https://drive.google.com/file/d/1ZHah5502WcwJSVkgo3zLcilYVU9kfzpg/view?usp=sharing)
+- 📄 Know about my experiences :point_right: [Here is my CV](https://drive.google.com/file/d/12DIJwvHbHpEqXSsDUwFD9OZY-0R4jlTL/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/smit--shah" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="smit--shah" height="30" width="40" /></a>
-<a href="https://medium.com/@techjammers.electronics" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@techjammers.electronics" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10215085/smitshah99" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="smitshah99" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCKlMqqP_xQ_vNGD4spAlPgw" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Smit Shah" height="30" width="40" /></a>
-<a href="https://orcid.org/0000-0001-8833-1506"><img align="center" alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_32x32.png" width="25" height="25" /></a>
-</p>
+<h3 align="left">🌐 Connect with me:</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smit--shah)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@techjammers.electronics)
+[![Stack Overflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/10215085/smitshah99)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@smitshah1304)
+[![ORCiD](https://img.shields.io/badge/-ORCiD-green?logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8833-1506)
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="mathworks" width="40" height="40"/> </a> 
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" alt="arduino" width="40" height="40"/> </a> 
-<a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a><a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://jupyter.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" width="50" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="50" height="40"/> </a> 
-<a href="https://colab.research.google.com/" target="_blank"> <img src="https://github.com/smitshah/smitshah.github.io/blob/master/assets/img/skills/colab.jpg" alt="colab" width="50" height="40"/> </a>
-<a href="https://kicad.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" alt="kicad" width="50" height="40"/> </a>
-<a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank"> <img src="https://github.com/smitshah/smitshah.github.io/blob/master/assets/img/skills/ltspice.jpg" alt="ltspice" width="50" height="40"/> </a>
-<a href="https://www.labcenter.com/" target="_blank"> <img src="https://github.com/smitshah/smitshah.github.io/blob/master/assets/img/skills/proteus.jpg" alt="proteus" width="50" height="40"/> </a>
-<a href="https://www.multisim.com/" target="_blank"> <img src="https://github.com/smitshah/smitshah.github.io/blob/master/assets/img/skills/multisim.jpg" alt="multisim" width="50" height="40"/> </a>
-<a href="https://www.ni.com/en-in/shop/labview.html" target="_blank"> <img src="https://github.com/smitshah/smitshah.github.io/blob/master/assets/img/skills/labview.jpg" alt="labview" width="50" height="40"/> </a>
-<a href="http://www.roboanalyzer.com/" target="_blank"> <img src="https://github.com/smitshah/smitshah.github.io/blob/master/assets/img/skills/roboanalyser.jpg" alt="roboanalyzer" width="50" height="40"/> </a>
-<a href="http://gazebosim.org/" target="_blank"> <img src="https://github.com/smitshah/smitshah.github.io/blob/master/assets/img/skills/gazebo.jpg" alt="gazebo" width="50" height="40"/> </a>
-<a href="https://www.xilinx.com/products/design-tools/ise-design-suite.html" target="_blank"> <img src="https://github.com/smitshah/smitshah.github.io/blob/master/assets/img/skills/xilinxise.jpg" alt="xilinxise" width="50" height="40"/> </a>
-<a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Xilinx.svg" alt="xilinxvivado" width="50" height="40"/> </a>
-<a href="https://www.keil.com/" target="_blank"> <img src="https://github.com/smitshah/smitshah.github.io/blob/master/assets/img/skills/keil.jpg" alt="keil" width="50" height="40"/> </a>
-<a href="https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide" target="_blank"> <img src="https://github.com/smitshah/smitshah.github.io/blob/master/assets/img/skills/mplab.jpg" alt="mplab" width="50" height="40"/> </a>
-<a href="https://www.freertos.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_freeRTOS.png" alt="Freertos" width="50" height="40"/> </a>
-</p>
+<h3 align="left">💻 Programming Languages and Tools:</h3>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![MATLAB](https://img.shields.io/badge/-MATLAB-orange?logo=matlab&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![KiCad](https://img.shields.io/badge/-KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![LTspice](https://img.shields.io/badge/-LTspice-3645FF?style=for-the-badge&logo=analog&logoColor=white)
+![Proteus](https://img.shields.io/badge/-Proteus-3645FF?style=for-the-badge&logo=proteus&logoColor=white)
+![Multisim](https://img.shields.io/badge/-Multisim-3645FF?style=for-the-badge&logo=multisim&logoColor=white)
+![LabVIEW](https://img.shields.io/badge/-LabVIEW-FFDB00?style=for-the-badge&logo=LabVIEW&logoColor=white)
+![RoboAnalyzer](https://img.shields.io/badge/-RoboAnalyzer-44A833?style=for-the-badge&logo=RoboAnalyzer&logoColor=white)
+![Gazebo](https://img.shields.io/badge/-Gazebo-F46D01?style=for-the-badge&logo=Gazebo&logoColor=white)
+![Xilinx ISE Design Suite](https://img.shields.io/badge/-Xilinx%20ISE%20Design%20Suite-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
+![Xilinx Vivado](https://img.shields.io/badge/-Xilinx%20Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
+![Keil uVision](https://img.shields.io/badge/-Keil%20uVision-3645FF?style=for-the-badge&logo=keil&logoColor=white)
+![MPLAB](https://img.shields.io/badge/-MPLAB-41454A?style=for-the-badge&logo=mplab&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-44A833?style=for-the-badge&logo=FreeRTOS&logoColor=white)
+![GNU Octave](https://img.shields.io/badge/-GNU%20Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white)
+![Google Bigquery](https://img.shields.io/badge/-Google%20Bigquery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <div>
