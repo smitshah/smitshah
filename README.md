@@ -19,7 +19,9 @@
 
 - 📄 Know about my experiences :point_right: [Here is my CV](https://drive.google.com/file/d/12DIJwvHbHpEqXSsDUwFD9OZY-0R4jlTL/view?usp=sharing)
 
+
 <h3 align="left">🌐 Connect with me:</h3>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smit--shah)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@techjammers.electronics)
 [![Stack Overflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/10215085/smitshah99)
@@ -28,6 +30,7 @@
 
 
 <h3 align="left">💻 Programming Languages and Tools:</h3>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
