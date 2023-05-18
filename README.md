@@ -6,7 +6,7 @@
 
 ### Wanna stalk my website:question::point_right: [Click Here](https://smitshah.github.io/):sparkles:
 
-#### Github Profile Trophy
+<h3 align="left">:trophy: Github Profile Trophy</h3>
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smitshah" alt="smitshah" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://smitshah.github.io/](https://smitshah.github.io/)
