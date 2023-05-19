@@ -22,7 +22,7 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-smitshah0885@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smitshah0885@gmail.com)](mailto:smitshah0885@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?logo=Gmail&logoColor=white)](mailto:smitshah0885@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smit--shah)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@techjammers.electronics)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/smitshah99)
