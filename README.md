@@ -22,11 +22,14 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 
+[![Gmail Badge](https://img.shields.io/badge/-smitshah0885@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smitshah0885@gmail.com)](mailto:smitshah0885@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smit--shah)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@techjammers.electronics)
-[![Stack Overflow](https://img.shields.io/badge/stack%20overflow-F58025?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10215085/smitshah99)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/smitshah99)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10215085/smitshah99)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=YouTube&logoColor=white)](https://www.youtube.com/@smitshah1304)
 [![ORCiD](https://img.shields.io/badge/ORCiD-A6CE39?logo=ORCiD&logoColor=white)](https://orcid.org/0000-0001-8833-1506)
+
 
 
 <h3 align="left">💻 Programming Languages and Tools:</h3>
@@ -43,11 +46,13 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 ![KiCad](https://img.shields.io/badge/-KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![LTspice](https://img.shields.io/badge/-LTspice-3645FF?style=for-the-badge&logo=analog&logoColor=white)
 ![Proteus](https://img.shields.io/badge/-Proteus-3645FF?style=for-the-badge&logo=proteus&logoColor=white)
@@ -62,8 +67,10 @@
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-44A833?style=for-the-badge&logo=FreeRTOS&logoColor=white)
 ![GNU Octave](https://img.shields.io/badge/-GNU%20Octave-0790C0?style=for-the-badge&logo=octave&logoColor=white)
 ![Google Bigquery](https://img.shields.io/badge/-Google%20Bigquery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Teradata](https://img.shields.io/badge/-Teradata-F37440?style=for-the-badge&logo=Teradata&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![GIT](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 
