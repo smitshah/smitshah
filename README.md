@@ -25,7 +25,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-smitshah0885@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smitshah0885@gmail.com)](mailto:smitshah0885@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smit--shah)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@techjammers.electronics)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/smitshah99)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/smitshah99)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10215085/smitshah99)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=YouTube&logoColor=white)](https://www.youtube.com/@smitshah1304)
 [![ORCiD](https://img.shields.io/badge/ORCiD-A6CE39?logo=ORCiD&logoColor=white)](https://orcid.org/0000-0001-8833-1506)
