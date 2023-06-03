@@ -59,6 +59,7 @@
 ![Multisim](https://img.shields.io/badge/-Multisim-3645FF?style=for-the-badge&logo=multisim&logoColor=white)
 ![LabVIEW](https://img.shields.io/badge/-LabVIEW-FFDB00?style=for-the-badge&logo=LabVIEW&logoColor=white)
 ![RoboAnalyzer](https://img.shields.io/badge/-RoboAnalyzer-44A833?style=for-the-badge&logo=RoboAnalyzer&logoColor=white)
+![ROS](https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/-Gazebo-F46D01?style=for-the-badge&logo=Gazebo&logoColor=white)
 ![Xilinx ISE Design Suite](https://img.shields.io/badge/-Xilinx%20ISE%20Design%20Suite-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Xilinx Vivado](https://img.shields.io/badge/-Xilinx%20Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
