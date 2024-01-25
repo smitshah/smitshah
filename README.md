@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-smitshah0885@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smitshah0885@gmail.com)](mailto:smitshah0885@gmail.com) 
 ![Profile Views](https://komarev.com/ghpvc/?username=smitshah)
 
-### Wanna stalk my website:question::point_right: [Click Here](https://smitshah.github.io/):sparkles:
+### Wanna stalk my website ❓👉 [Click Here](https://smitshah.github.io/):sparkles:
 
 <h3 align="left">:trophy: Github Profile Trophy</h3>
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smitshah" alt="smitshah" /></a> </p>
